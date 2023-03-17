@@ -1,4 +1,4 @@
-<!--This model is modified from MONAI-->
+# This model is modified from MONAI
 # This model is trained by active learning - CVAI-tw
 <!--
 Copyright (c) MONAI Consortium
@@ -12,7 +12,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-
+<
 # DeepLearning models for Radiology use-case(s).
 
 The App works in both 3DSlicer plugin and OHIF viewer. Researchers/clinicians can also place their studies in either the
