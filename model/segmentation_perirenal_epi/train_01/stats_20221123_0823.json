@@ -1,0 +1,27 @@
+{
+  "rank": 0,
+  "current_epoch": 50,
+  "current_iteration": 1800,
+  "total_epochs": 50,
+  "total_iterations": 36,
+  "epoch": 50,
+  "start_ts": 1669163026,
+  "total_time": "0:06:46",
+  "best_metric": 0.9160041809082031,
+  "train": {
+    "metrics": {
+      "train_dice": 0.873340368270874
+    },
+    "key_metric_name": "train_dice",
+    "best_metric": 0.89554762840271,
+    "best_metric_epoch": 35
+  },
+  "eval": {
+    "metrics": {
+      "val_mean_dice": 0.8924797773361206
+    },
+    "key_metric_name": "val_mean_dice",
+    "best_metric": 0.9160041809082031,
+    "best_metric_epoch": 47
+  }
+}
